@@ -1,0 +1,16 @@
+.container {
+    text-align: center;
+}
+.container__img {
+    background-color: red;
+    background-image: url(../../assets/img/cat2.jpg);
+    min-height: 80vh;
+}
+
+.container__img__img {
+    width: 100%;
+}
+
+
+
+
