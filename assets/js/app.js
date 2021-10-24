@@ -42,19 +42,8 @@ thoughtButton.addEventListener("click", e => {
     };
 
     fetchThought();
-
-    // axios.get('http://127.0.0.1:8000/api/thoughts/2')
-    // .then(function (response) {
-    //     console.log('data requested');
-    //     const responseThought = response.data.text;
-    //     console.log(responseThought);
-    //     return responseThought;
-    // });
-    // console.log(responseThought);
-    // contentP.innerHTML = responseThought;
-    // contentImg.setAttribute('src', imgSrc);
 });
 
-// console.log(responseThought);
+
 
 
