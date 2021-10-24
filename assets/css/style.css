@@ -66,8 +66,10 @@ footer {
 .main__content__p {
     background-color: rgba(249, 91, 60, 0.7);
     max-height: 40vh;
+    min-width: 50%;
     margin-top: 10%;
     padding: 11% 1rem;
+    text-align: center;
 }
 
 .main__button {
