@@ -6,3 +6,4 @@
 #/var/
 #/vendor/
 /assets/img/*
+/node_modules
