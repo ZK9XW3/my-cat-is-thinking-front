@@ -25,7 +25,7 @@ thoughtButton.addEventListener("click", e => {
         return Math.floor(Math.random() * (max - min +1)) + min;
     }
 
-    let randomIdResult = randomId(21, 17);
+    let randomIdResult = randomId(28, 17);
     console.log(randomIdResult);
 
     // API request GET passing Id 
