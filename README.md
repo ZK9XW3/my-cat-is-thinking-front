@@ -1,3 +1,5 @@
+<img src="https://github.com/ZK9XW3/my-cat-is-thinking-front/blob/main/assets/img/thumbnails/my-cat-is-thinking-homepage.png" />
+
 ## Description
 Ever wondered what was your cat thoughts ? Here is the answer !!!
 
@@ -10,6 +12,8 @@ Front-End side i'm using a litlle bit of bootstrap, flex properties, vanilla JS 
 ⌚ Later on i plan on coding an admin page where authenticated users could add or edit thoughts... Since API side, the endpoints for adding and editing thoughts and users already exists, most of the work is gonna be FE side. Still i will have to add an upload image feature with API platform... but yeah later 🙂
 
 PS: I'm tryin to make a well documented project so i get use to be a good collegue !!! 👨‍💼
+
+<img src="https://github.com/ZK9XW3/my-cat-is-thinking-front/blob/main/assets/img/thumbnails/my-cat-is-thinking-sleep.png" />
 
 ## Install
 - **Infos** You need the BE side/ API running for the website to be working.
